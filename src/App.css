@@ -11,20 +11,3 @@
   width: 100%;
   display: flex;
 }
-
-.card {
-  padding: 2em;
-  border: 1px, solid, white;
-  display: flex;
-  flex-direction: column;
-}
-
-.read-the-docs {
-  color: #888;
-}
-
-.song-card{
-  border: 1px, solid, white;
-  height: 70%;
-  width: 500px;
-}

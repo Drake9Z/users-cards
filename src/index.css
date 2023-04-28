@@ -27,31 +27,3 @@ h1 {
   flex-wrap: wrap;
   gap: 1rem;
 }
-
-.albums{
-  width: 100%;
-  padding: 1rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
-}
-
-.song-card{
-  border: 1px solid rgb(134, 134, 134);
-  background:#00000075;
-  margin: 1rem 0;
-  height: auto;
-  width: 200px;
-  display: flex;
-  flex-direction: column;
-}
-
-.song-card h4{
-  margin: 0;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-}
-
-
