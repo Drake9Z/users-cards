@@ -4,7 +4,8 @@
   font-weight: 400;
 
   color: rgba(255, 255, 255, 0.87);
-  background-image: linear-gradient(to right bottom, #565656,#181818);
+  background: #565656;
+  background-size: cover;
 }
 
 body {
